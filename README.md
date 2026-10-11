@@ -11,10 +11,10 @@ SOC-style analysis of four real-world emails from the public [phishing_pot](http
 ## Reports
 | # | Email | Verdict |
 |---|---|---|
-| [01](report-01.md) | "Your Big Win Is Ready" prize scam | Malicious |
-| [02](report-02.md) | "Akusoli" fake health product (Dutch) | Malicious |
-| [03](report-03.md) | "Aquaspins" fake casino bonus | Malicious |
-| [04](report-04.md) | Mailing list email with PCAP attachments | Benign (false positive) |
+| [01](Report-1.md) | "Your Big Win Is Ready" prize scam | Malicious |
+| [02](report-2.md) | "Akusoli" fake health product (Dutch) | Malicious |
+| [03](report-3.md) | "Aquaspins" fake casino bonus | Malicious |
+| [04](report-4.md) | Mailing list email with PCAP attachments | Benign (false positive) |
 
 ## Method
 1. Open the raw `.eml` in a text editor only – never an email client
